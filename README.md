@@ -9,5 +9,7 @@ V8 supports the creation of isolated V8 runtimes. These isolated instances, know
 ## interesting reads:
 
 [Official Docs](https://nodejs.org/api/worker_threads.html)
+
 [Article 1](https://blog.logrocket.com/node-js-multithreading-worker-threads-why-they-matter/)
+
 [Article 2](https://www.section.io/engineering-education/nodejs-worker-thread/)
